@@ -1,0 +1,16 @@
+@import url ('https://fonts.googleapis.com/css2?family=Gaegu:wght@300&display=swap');
+.mainpage{
+    width:90%;
+    height:100vh;
+    margin:auto;
+    font-family: 'Gaegu', cursive;
+}
+.mainpage h1{
+    margin:0;
+    padding:20px 0;
+    text-align:center;
+}
+.Avatarstyle img{
+    width:200px;
+    height:200px;
+}
